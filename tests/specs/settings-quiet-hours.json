@@ -5,9 +5,9 @@
       {
         "expect": [
           {
-            "method": "sendMessage",
+            "method": "editMessageText",
             "payload": {
-              "text": "Configure local time range for alert suppression"
+              "text": "Set quiet hours to pause alerts during specific times.\n\nWhen should quiet hours start? (e.g., 22:00 for 10 PM)"
             }
           }
         ],
