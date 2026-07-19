@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Show price for specified ticker or full watchlist"
+              "text": "💰 No coins in your watchlist.\n\nTap ➕ Add Coin to add some cryptocurrencies."
             }
           }
         ],

@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Show current watchlist with status indicators"
+              "text": "📋 Your watchlist is empty.\n\nTap ➕ Add Coin to add your first cryptocurrency."
             }
           }
         ],

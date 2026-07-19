@@ -5,9 +5,9 @@
       {
         "expect": [
           {
-            "method": "sendMessage",
+            "method": "editMessageText",
             "payload": {
-              "text": "Open coin selection dialog with popular tickers"
+              "text": "Choose a cryptocurrency to add to your watchlist:"
             }
           }
         ],
