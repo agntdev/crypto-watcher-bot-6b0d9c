@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Set Quiet Hours",
+    "steps": [
+      {
+        "expect": [
+          {
+            "method": "sendMessage",
+            "payload": {
+              "text": "Configure local time range for alert suppression"
+            }
+          }
+        ],
+        "send": {
+          "callback": "settings:quiet_hours"
+        }
+      }
+    ]
+  }
+]
